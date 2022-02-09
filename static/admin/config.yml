@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: https://github.com/shiv213/DoctorLawyerEngineer
+  # change repo to your git repository url
+  repo: shiv213/DoctorLawyerEngineer
 
 media_folder: static/assets
 public_folder: /assets
