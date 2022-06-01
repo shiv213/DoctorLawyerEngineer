@@ -6,8 +6,6 @@ title: Happy Birthday Dr. Didi!
 metaDescription: Happy Birthday Dr. Didi!
 thumbnail: /assets/dr-didi.jpg
 ---
-![birva](/assets/IMG_0473.jpg)
-
 Dear Didi,
 
 HAPPY BIRTHDAY, from your little sister and your baby brother! Thirty revolutions around the sun — cheers to you and cheers to our Mom. She was only 23 when she had you, her firstborn, half a world away. She labored in a hospital with no air conditioning to cool her pain on that hot summer night in Gujarat, but with her Mom beside her, with our collective Nanis’ and Daadis’ blessings renewing her strength, and yours. How far we have traveled and how far you both have come are the wonders of our world.
@@ -24,3 +22,5 @@ Love,\
 Durva and Shiv
 
 ![all-boat](/assets/IMG_8288.JPG)
+
+![birva](/assets/IMG_0473.jpg)
