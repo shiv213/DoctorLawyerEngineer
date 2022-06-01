@@ -6,7 +6,7 @@ title: Happy Birthday Dr. Didi!
 metaDescription: Happy Birthday Dr. Didi!
 thumbnail: /assets/dr-didi.jpg
 ---
-![](/assets/IMG_0479.JPG)
+![birva](/assets/IMG_0473.jpg)
 
 Dear Didi,
 
