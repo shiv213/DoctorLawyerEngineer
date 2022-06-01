@@ -18,6 +18,5 @@ We see you. We celebrate, today and always, so much more than just the work that
 
 We are so proud of you, Didi, and we think the whole world should stop for a moment to celebrate who you are. You are important and worthy and inimitable. We love you. Not just your endless social and professional capacity for caretaking, advocacy and empathy, but also every part of your identity, every inhale and exhale, every vestige of the silly creative child you were and every varying vision for who you may grow into. We have no idea what the view at the top will look like, but we know we’ll get there if we keep following in your footsteps. Let’s all take in the beauty and chaos as we go. Happy birthday, and cheers to many, many more.
 
-Love,
-
+Love,\
 Durva and Shiv
