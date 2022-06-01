@@ -21,6 +21,8 @@ We are so proud of you, Didi, and we think the whole world should stop for a mom
 Love,\
 Durva and Shiv
 
-![all-boat](/assets/IMG_8288.JPG)
-
 ![birva](/assets/IMG_0473.jpg)
+
+
+
+![all-boat](/assets/IMG_8288.JPG)
