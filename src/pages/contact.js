@@ -22,7 +22,8 @@ const ContactPage = ({
             contact@doctorlawyerengineer.com</a></b>!</p>
         </div>
         <div>
-          <form className="form-container" name="contact" method="POST" data-netlify="true">
+          <form className="form-container" name="contact" method="POST" data-netlify="true" netlify>
+            <input type="hidden" name="form-name" value="contact" />
             <div>
               <label>Name <input type="text" name="name" /></label>
             </div>
